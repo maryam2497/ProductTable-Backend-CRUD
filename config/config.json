@@ -1,0 +1,23 @@
+{
+  "development": {
+    "database":"ProductDb",
+    "username":"postgres",
+    "password":"Maryam@24",
+    "host":"localhost",
+    "dialect":"postgres"
+  },
+  "test": {
+    "database":"ProductDb",
+    "username":"root",
+    "password":"Maryam@24",
+    "host":"localhost",
+    "dialect":"postgres"
+  },
+  "production": {
+    "database":"ProductDb",
+    "username":"root",
+    "password":"Maryam@24",
+    "host":"localhost",
+    "dialect":"postgres"
+  }
+}
